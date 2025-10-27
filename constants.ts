@@ -1,0 +1,2 @@
+// FIX: Removed a circular import of CLOSING_PARAGRAPHS from this same file.
+export const CLOSING_PARAGRAPHS = `Visit Bob Tomes Ford at 950 S Central Expy in McKinney to test drive this vehicle today. Serving the greater Dallas-Fort Worth area, including Frisco, Allen, and Plano, we offer flexible financing options to fit your needs. Don't wait—call us at (214) 544-5000 to schedule your appointment and drive home with confidence. All used cars may have dealer adds that affect the final price; call for details.`;
